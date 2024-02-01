@@ -4,7 +4,7 @@
 
 #  **Projeto** - Análise Global do Covid-19 
 
-[PROJETO (COLAB)]()
+[PROJETO (COLAB)](https://github.com/SarahFeanor/Covid_19_EDA_Project/blob/main/Analise_Covid_19.ipynb)
 
 Bem-vindos(as). Este repositório foi criado com o propósito de estudo. Vale ressaltar que todos os dados são exclusivamente para fins de demonstração, garantindo total privacidade e conformidade ética.
 
