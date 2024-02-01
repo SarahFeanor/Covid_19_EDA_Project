@@ -30,7 +30,7 @@ O escopo deste projeto, por conseguinte, está em aprimorar a conscientização 
 ## 📂 **Aquisição dos Dados**
 As informações empregadas são acessíveis através de um repositório no [GitHub](https://github.com/owid/covid-19-data/tree/master/public/data) e têm origem no[ Our World in Data](https://ourworldindata.org/coronavirus) (OWID), uma plataforma científica online voltada para a análise de questões globais prementes, tais como pobreza, doenças, fome, mudanças climáticas, conflitos, riscos existenciais e disparidades.
 
-#@ Considerações Finais ✨🔍📊
+## Considerações Finais ✨🔍📊
 
 Esta análise forneceu insights tanto a nível global quanto local, utilizando um conjunto de dados fornecido pelo Our World in Data, que incluía informações sobre o número de casos e mortes em cada país, a parcela da população com idade acima de 65 anos, o PIB do país, entre outros dados relevantes. É importante ressaltar que essa análise é uma abordagem superficial e exploratória, focada no estudo, e os números foram observados em termos absolutos, o que pode influenciar os resultados finais.
 
