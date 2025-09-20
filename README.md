@@ -8,11 +8,6 @@
 
 Bem-vindos(as). Este repositório foi criado com o propósito de estudo. Vale ressaltar que todos os dados são exclusivamente para fins de demonstração, garantindo total privacidade e conformidade ética.
 
-<p align="center">
-  <a href="https://github.com/SarahFeanor?tab=repositories">
-    <img src="https://cdn.discordapp.com/attachments/1063559719291199599/1202442953998733392/global_economic_barometer_covid19.jpg?ex=65cd7944&is=65bb0444&hm=87c25a6d548f80b55a74198ca834de715b89ef73007e1eb5fc35c5e68a2d43f0&" alt="capa" width="500" height="300">
-  </a>
-</p> <p align="center"> <sup> Covid-19 — Foto de PortalFGV</sup> </p>
 
 
 # **Panorama Global do Coronavírus** 🔬🌍
